@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jaredhanson/js-sasl](http://github.com/jaredhanson/js-sasl). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jaredhanson-js-sasl`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # SASL
 
 This module is a JavaScript framework for SASL authentication and data security.
